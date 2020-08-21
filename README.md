@@ -4,7 +4,7 @@
 
 
 
-### Redes :arrow_down_small:
+### Redes :leaves:
 [<img align="left" alt="fitocuevas | Twitter" width="22px" src="http://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter] 
 [<img align="left" alt="fitocuevas | Instagram" width="22px" src="http://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
 [<img align="left" alt="fitocuevas | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/gmail.svg" />][Gmail]
